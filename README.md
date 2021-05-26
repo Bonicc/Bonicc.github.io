@@ -1,2 +1,2 @@
 # bonicc.github.io
-#github #blog 
+## 깃허브 블로그
